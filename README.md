@@ -2,7 +2,7 @@
 ### 1. Game Overview
 Name  
 Strange Road   
-https://youtu.be/WllFxTex6Ek  
+https://youtu.be/WllFxTex6Ek  (Youtube demo)
 
 Genre   
 Endless Running Game
