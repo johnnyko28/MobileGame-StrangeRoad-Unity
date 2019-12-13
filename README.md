@@ -1,5 +1,4 @@
 # StrangeRoad
-
 ### 1. Game Overview
 Name  
 Strange Road   
@@ -14,6 +13,7 @@ Aged 16 to 45 with mobile devices, the game is designed to be simple, easy to pl
 Elevator Pitch (Summary)  
 You switch the track on the road so that a colored ball goes into the right way, where there are no obstacles. You earn coins every crossing and you can buy items for special power, for example, slowing ball down or breaking through any obstacle.
 
+![image](https://github.com/johnnyko28/Full-Stack-Project-Ko-and-Co./blob/master/Screenshot%202019-03-01%2017.55.38.png)
 
 ### 2. Gameplay & Mechanics
 Objectives  
