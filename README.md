@@ -3,6 +3,7 @@
 Name  
 Strange Road   
 https://youtu.be/WllFxTex6Ek  (Youtube demo)
+http://kochinch.freevar.com/StrangeRoad.html (WebGL)
 
 Genre   
 Endless Running Game
