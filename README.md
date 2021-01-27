@@ -3,7 +3,6 @@
 Name  
 Strange Road   
 https://youtu.be/WllFxTex6Ek  (Youtube demo) <br>
-http://kochinch.freevar.com/StrangeRoad.html (WebGL)
 
 ![image](https://github.com/johnnyko28/StrangeRoad/blob/master/StrangeRoad.png)
 
